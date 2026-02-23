@@ -11,8 +11,8 @@ Identify impactful non-textual features
 Compare rule-based and statistical learning approaches
 📊 Dataset
 Source: Kaggle
-Dataset: Stack Overflow Programming Questions (2020–2025)
-Provider: Kutay Ahin
+Dataset:(https://www.kaggle.com/datasets/kutayahin/stackoverflow-programming-questions-2020-2025/data)
+Provider: Kutay Sahin
 Textual fields such as title, body, and tags are intentionally excluded to reduce noise, prevent data leakage, and improve generalization.
 
 🛠️ Methods & Tools
@@ -42,8 +42,8 @@ Metin disi ozelliklerin etkisini analiz etmek
 Kural tabanli ve istatistiksel modelleri karsilastirmak
 📊 Veri Seti
 Kaynak: Kaggle
-Veri Seti: Stack Overflow Programming Questions (2020–2025)
-Saglayan: Kutay Ahin
+Veri Seti:(https://www.kaggle.com/datasets/kutayahin/stackoverflow-programming-questions-2020-2025/data)
+Saglayan: Kutay Sahin
 Baslik, govde ve etiket gibi metinsel alanlar; veri sizintisini onlemek ve model genellemesini artirmak amaciyla analiz disinda birakilmistir.
 
 🛠️ Yontemler ve Araclar
